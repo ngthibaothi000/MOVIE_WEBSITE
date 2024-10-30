@@ -1,0 +1,5 @@
+1/ npm install
+2/ npm start - Server
+- connect mongoDB
+3/ npm start - client
+- runing..
